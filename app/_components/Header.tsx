@@ -8,7 +8,7 @@ export default function Header({ action }: { action: 'start' | 'stop' }) {
 
   return (
     <header className={styles.header}>
-      <Link href={'/'}>
+      <Link href={normalizeUrl('/')}>
       <Logo className={styles.logo}/>
       </Link>
       <a
