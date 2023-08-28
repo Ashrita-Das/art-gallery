@@ -8,15 +8,15 @@ export default function Header({ action }: { action: 'start' | 'stop' }) {
 
   return (
     <header className={styles.header}>
-      <Link href={normalizeUrl('/')}>
+      
       <Logo className={styles.logo}/>
-      </Link>
       <a
         className={styles.slidershow}
         href={normalizeUrl(canStop ? '/' : '/krishna')}
       >
         {canStop ? 'Stop' : 'Start'} slideshow
       </a>
+      
     </header>
   );
 }
