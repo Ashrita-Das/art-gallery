@@ -1,0 +1,274 @@
+[
+    {
+      "name": "Krishna",
+      "year": 1930,
+      "description": "Hinduism’s spread was not confined to the Indian subcontinent and had its reach far beyond the peaks of the Himalayas. The Russian writer and artist Nicholas Roerich, who lived the last of his days in the Kullu valley, seems to have been influenced by the philosophical depiction of human nature in the form of  In the above painting, he has depicted Krishna playing the flute with a backdrop of the snow-covered peaks. A mild breeze is blowing in the background which can be witnessed by the movement of the branches. Unlike common depictions of Krishna, Roerich, here has depicted him with a normal skin colour unlike the conventional dark blue.",
+        "source": "https://www.esamskriti.com/e/Culture/Indian-Art/Ten-Famous-Pieces-of-Indian-Art-1.aspx",
+        "artist": {
+           "image": "./assets/krishna/artist.jpg",
+           "name": "Nicholas Roerich"
+        },
+        "images": {
+          "thumbnail": "./assets/krishna/thumbnail.jpg",
+          "hero": {
+            "small": "./assets/krishna/hero_small.jpg",
+            "large": "./assets/krishna/hero_large.jpg"
+          },
+          "gallery": "./assets/krishna/gallery.jpg"
+        }
+      },
+      {
+        
+        "name": "Self Portrait",
+        "year": 1930,
+        "description": "From 1930 onwards, Amrita Sher-Gil painted a series of self- portraits representing her many moods. This seductive and exuberant mood that she has captured is relatively rare in her series of self-portraits. Sher-Gil's visual language introduced a host of new elements in modern Indian art as the expressive representation of the female figure and her ingeniously narrating elements of miniature paintings in her work.",
+        "source": "https://artsandculture.google.com/asset/self-portrait-7-amrita-sher-gil/cAGsbot8N1HHpw",
+        "artist": {
+          "image": "./assets/self-portrait/artist.jpg",
+          "name": "Amrita Sher-Gil"
+        },
+        "images": {
+          "thumbnail": "./assets/self-portrait/thumbnail.jpg",
+          "hero": {
+            "small": "./assets/self-portrait/hero_small.jpg",
+            "large": "./assets/self-portrait/hero_large.jpg"
+           },
+          "gallery": "./assets/self-portrait/gallery.jpg"
+          }
+        },
+      {
+        "name": "Days of Glory",
+        "year": 1952,
+        "description": "Satish Gujral paints an impactful portrayal of the suffering that shook him to the core in Days of Glory. Ironic as it may sound in being reflective of the times of the bloodshed, the Days of Glory is a metaphor for all emotions that had overwhelmingly engulfed its creator who believes his paintings are in fact a rendition of his sufferings more than they are of the Partition. The masterpiece we are considering herein is a depiction of helplessness but not sans dignity.",
+        "source": "https://zikredilli.com/f/satish-gujrals-partition-series-delhi-1952",
+        "artist": {
+          "image": "./assets/days-of-glory/artist.jpg",
+          "name": "Satish Gujral"
+        },
+        "images": {
+          "thumbnail": "./assets/days-of-glory/thumbnail.jpg",
+          "hero": {
+            "small": "./assets/days-of-glory/hero_small.jpg",
+            "large": "./assets/days-of-glory/hero_large.jpg"
+          },
+          "gallery": "./assets/days-of-glory/gallery.jpg"
+        }
+      },
+      {
+        "name": "Glow of Hope",
+        "year": 1945,
+        "description": "The painting shows an Indian woman holding a lighted lamp in one hand, the other hand covering the light of the lamp from the front. The woman is in a simple and traditional Indian saree. The effect of the painting is heightened by the shadow of the woman in the back. To make things even more interesting, the woman in the painting is S.L.Haldankar’s daughter, Gita Haldankar!",
+        "source": "https://en.wikipedia.org/wiki/Glow_of_Hope",
+        "artist": {
+          "image": "./assets/glow-of-hope/artist.jpg",
+          "name": "S.L. Haldankar"
+        },
+        "images": {
+          "thumbnail": "./assets/glow-of-hope/thumbnail.jpg",
+          "hero": {
+            "small": "./assets/glow-of-hope/hero_small.jpg",
+            "large": "./assets/glow-of-hope/hero_large.jpg"
+          },
+          "gallery": "./assets/glow-of-hope/gallery.jpg"
+        }
+        },
+        {
+        "name": "Mahishasura",
+        "year": 1994,
+        "description": "In the 1960s, Mehta developed his signature style, defined by bold lines, bright colours, and distorted forms. His paintings often featured figures in extreme poses, with limbs twisted and contorted in a way that suggested pain and suffering. This aspect was particularly evident in his celebrated “Mahishasura” series, depicting the Hindu mythological demon in agony as the goddess Durga defeats him.",
+        "source": "https://www.re-thinkingthefuture.com/architectural-community/a9743-life-of-an-art-tyeb-mehta/",
+        "artist": {
+          "image": "./assets/mahishasura/artist.jpg",
+          "name": "Tyeb Mehta"
+        },
+        "images": {
+          "thumbnail": "./assets/mahishasura/thumbnail.jpg",
+          "hero": {
+            "small": "./assets/mahishasura/hero_small.jpg",
+            "large": "./assets/mahishasura/hero_large.jpg"
+          },
+          "gallery": "./assets/mahishasura/gallery.jpg"
+        }
+        },
+        {
+        "name": "Tamil Girl",
+        "year": 2007,
+        "description": "In the painting, the girl is seen sitting with her parrots and smiling subtly into the frame with a knowing look in her eyes. Elayaraja painstakingly breathes life into every detail, from the folds of the girl’s dress to the shining gold-threaded patterns and borders of her skirt, the pretty parrots perched on the window sill behind her, the brown wooden frame behind her and the cemented floor. Bathed in an almost angelic golden light, the painting showcases the artists’s deep bond with his cultural background, growing up in a temple town in Tamil Nadu.",
+        "source": "https://www.artzolo.com/.artistayaraja",
+        "artist": {
+          "image": "./assets/tamil-girl/artist.jpg",
+          "name": "S Elayaraja"
+        },
+        "images": {
+          "thumbnail": "./assets/tamil-girl/thumbnail.jpg",
+          "hero": {
+            "small": "./assets/tamil-girl/hero_small.jpg",
+            "large": "./assets/tamil-girl/hero_large.jpg"
+          },
+          "gallery": "./assets/tamil-girl/gallery.jpg"
+        }
+      },
+      {
+        "name": "Rabindranath Tagore Self-portrait",
+        "year": 1937,
+        "description": "Rabindranath Tagore was a Bengali polymath, being a poet, playwright, novelist, composer and visual artist. His work reshaped Bengali literature and music during the late nineteenth and early twentieth centuries and he was awarded the Nobel Prize in Literature in 1913. This painting depicts the full-face, self-portrait of the bearded artist. The unworked background and the enhanced contour push the figure out from the ground. The flatness of the figure is enhanced by the lack of colour and the use of rough pencil lines.",
+        "source": " https://collections.vam.ac.uk/item/O81873/self-portrait-lithograph-tagore-rabindranath/",
+        "artist": {
+          "image": "./assets/rabindranath-tagore-self-portrait/artist.jpg",
+          "name": "Rabindranath Tagore"
+        },
+        "images": {
+          "thumbnail": "./assets/rabindranath-tagore-self-portrait/thumbnail.jpg",
+          "hero": {
+            "small": "./assets/rabindranath-tagore-self-portrait/hero_small.jpg",
+            "large": "./assets/rabindranath-tagore-self-portrait/hero_large.jpg"
+          },
+          "gallery": "./assets/rabindranath-tagore-self-portrait/gallery.jpg"
+        }
+      },
+      {
+        "name": "Horses",
+        "year": 2002,
+        "description": "Horses had become Husain's personal metaphor for speed, beauty & grace. his work in acrylic dated 2002, is reminiscent of Lightning, another Husain work which is filled with political allusions. The trishul itself is sometimes present in his works, chiefly in his depictions of Shiva and Durga, which typically denote a rawness and ferocity, which could be applied here, as well.", 
+        "source": "https://www.tallengestore.com/products/horses-iii-art-by-m-f-hussain-posters",
+        "artist": {
+          "image": "./assets/horses/artist.jpg",
+          "name": "M F Hussain"
+        },
+        "images": {
+          "thumbnail": "./assets/horses/thumbnail.jpeg",
+          "hero": {
+            "small": "./assets/horses/hero_small.jpeg",
+            "large": "./assets/horses/hero_large.jpeg"
+          },
+          "gallery": "./assets/horses/gallery.jpg"
+        }
+        },
+      {
+        "name": "Bharat Mata",
+        "year": 1905,
+        "description": "The painting is very spiritual and calm, showing a beautiful, motherly goddess. But the history behind it is of a violent, turbulent time in pre-Independence India. In the year 1905, the then Viceroy of India, Lord Curzon, decided to divide Bengal into two parts under his notorious Divide and Rule policy. The eastern part would be for Muslims, and the western part for Hindus. This policy would create tension among the two religions, who would forget about fighting the British to fight among themselves. Abanindranath’s painting came at this time as part of the movement to reinforce the idea of a united Indian nation. ",
+        "source": "https://htschool.hindustantimes.com/editorsdesk/knowledge-vine/the-true-story-behind-abanindranath-tagores-bharat-mata-painting",
+        "artist": {
+          "image": "./assets/bharat-mata/artist.jpg",
+          "name": "Abanindranath Tagore"
+        },
+        "images": {
+          "thumbnail": "./assets/bharat-mata/thumbnail.jpg",
+          "hero": {
+            "small": "./assets/bharat-mata/hero_small.jpg",
+            "large": "./assets/bharat-mata/hero_large.jpg"
+          },
+          "gallery": "./assets/bharat-mata/gallery.jpg"
+        }
+        },
+      {
+        "name": "Shakuntala",
+        "year": 1870,
+        "description": "This whimsical oil on canvas piece depicts Shakuntala, a character from the Mahabaratha, one of the two major Sanskrit epic stories from India. She is the mother of Emperor Bharata who founded the Bhārata dynasty. In this piece, Varma painted Shakuntala as she pretends to remove a thorn from her foot. Secretly, Shakuntala is looking for her lover, Dushyantha.",
+        "source": "https://www.myddoa.com/shakuntala-looks-of-love-raja-ravi-varma/",
+        "artist": {
+          "image": "./assets/shakuntala/artist.jpg",
+          "name": "Raja Ravi Varma"
+        },
+        "images": {
+          "thumbnail": "./assets/shakuntala/thumbnail.jpg",
+          "hero": {
+            "small": "./assets/shakuntala/hero_small.jpg",
+            "large": "./assets/shakuntala/hero_large.jpg"
+          },
+          "gallery": "./assets/shakuntala/gallery.jpg"
+        }
+        },
+      {
+        "name": "Barbet",
+        "year": 1625,
+        "description": "This depiction of a Blue-throated Barbet was done for the Mughal emperor Jahangir by one of the greatest artists of his reign, Mansur according to the later attribution in black ink in the border below the painting. The Blue-throated Barbet (Megalaima asiatica) is found in the Himalayan foothills, including Kashmir which Jahangir visited several times during his reign, taking artists including Mansur with him.",
+        "source": "https://collections.vam.ac.uk/item/O114116/painting-mansur/",
+        "artist": {
+          "image": "./assets/barbet/artist.jpg",
+          "name": "Ustad Mansur"
+        },
+        "images": {
+          "thumbnail": "./assets/barbet/thumbnail.jpg",
+          "hero": {
+            "small": "./assets/barbet/hero_small.jpg",
+            "large": "./assets/barbet/hero_large.jpg"
+          },
+          "gallery": "./assets/barbet/gallery.jpg"
+        }
+        },
+      {
+        "name": "Three Pujarins",
+        "year": 1950,
+        "description": "Three women are depicted in the picture as they seem to be going for worshipping. Roy has used thick contour lines to represent them along with bold blue colour to make them stand out. The colour blue itself represents serenity and stability, much to the likes of Jamini's village symbolism. The women do look full of wisdom going about their simplistic but significant lives. ",
+        "source": "https://dilettanteandfandom.blogspot.com/2020/06/three-pujarins-jamini-roy.html",
+        "artist": {
+          "image": "./assets/three-pujarins/artist.jpg",
+          "name": "Jamini Roy"
+        },
+        "images": {
+          "thumbnail": "./assets/three-pujarins/dem.jpg",
+          "hero": {
+            "small": "./assets/three-pujarins/hero_small.jpeg",
+            "large": "./assets/three-pujarins/hero_large.jpeg"
+          },
+          "gallery": "./assets/three-pujarins/gallery.jpg"
+        }
+        },
+      {
+        "name": "Bindu",
+        "year": 1980,
+        "description": "Sayed Haider Raza was an Indian artist who lived and worked in France. His trips to India made him realize his role and study Indian culture more closely, the result was ‘Bindu’, which signified his rebirth as a painter. The Bindu came forth in 1980, and took his work deeper and brought in, his new-found Indian vision and Indian ethnography. One of the reasons he attributes to the origin of the ‘Bindu’, have been his elementary school teacher, who on finding him lacking adequate concentration, drew a dot on the blackboard and asked him to concentrate on it.",
+        "source": "https://somyaart.wordpress.com/2018/01/10/s-h-raza-bindu-and-beyond/",
+        "artist": {
+          "image": "./assets/bindu/artist.jpg",
+          "name": "S.H Raza"
+        },
+        "images": {
+          "thumbnail": "./assets/bindu/thumbnail.jpg",
+          "hero": {
+            "small": "./assets/bindu/hero_small.jpg",
+            "large": "./assets/bindu/hero_large.jpg"
+          },
+          "gallery": "./assets/bindu/gallery.jpg"
+        }
+          },
+      {
+        
+        "name": "Vagabond",
+        "year": 1956,
+        "description": "In Vagabond, although one individual towers over the others, they appear equally isolated and are linked to the cityscape and buildings. The strained posture of their bodies is echoed in the angular jagged shapes of the background that communicate a sense of despair and hopelessness. Ram Kumar has divided the canvas into three components, the young man in the foreground who appears to dominate the work, the cityscape comprised of angular buildings and flat planes, and lastly the two companions leaning heavily on each other for support. All three components are linked to each other with a somber palette magnifying the sense of intense desolation. The focus is almost entirely on the figures and the sense of loneliness is overwhelming.",
+        "source": "https://www.christies.com/en/lot/lot-5049183",
+        "artist": {
+          "image": "./assets/vagabond/artist.jpg",
+          "name": "Ram Kumar"
+        },
+        "images": {
+          "thumbnail": "./assets/vagabond/thumbnail.jpg",
+          "hero": {
+            "small": "./assets/vagabond/hero_small.jpg",
+            "large": "./assets/vagabond/hero_large.jpg"
+          },
+          "gallery": "./assets/vagabond/gallery.jpg"
+        }
+  },
+   {
+        "name": "Sati",
+        "year": 1943,
+        "description": "Sati in literal Hindu terminology means a pure woman faithfully devoted to her spouse. This feminine attribute, finds its mythological paradigm in the character of Shiva’s consort Sati, who sacrificed herself into the sacred fire, in remonstration of her father’s disrespect towards her husband. Here, Nandalal beautifully captures the final moments of Sati, as she bows her head in reverence to the Fire God Agni and offers her mortal remains to his sanctity. She is represented as a common Bengali woman draped in the conventional saree. Though a wood-bock print on rice paper, prepared with the traditional water-based inks made from vegetable dyes, this early reproduction pays true justice to Nandalal’s own version.",
+        "source": "https://auctions.bidandhammer.com/nandalal-bose-sati?productId=643",
+        "artist": {
+          "image": "./assets/sati/artist.jpg",
+          "name": "Nandalal Bose"
+        },
+        "images": {
+          "thumbnail": "./assets/sati/thumbnail.jpg",
+          "hero": {
+            "small": "./assets/sati/hero_small.jpg",
+            "large": "./assets/sati/hero_large.jpg"
+          },
+          "gallery": "./assets/sati/gallery.jpg"
+        }
+      }
+  ]

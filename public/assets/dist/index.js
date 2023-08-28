@@ -1,0 +1,17 @@
+"use strict";
+exports.__esModule = true;
+exports.krishna = require("@/assets/krishna");
+exports.self_portrait = require("@/assets/self-portrait");
+exports.days_of_glory = require("@/assets/days-of-glory");
+exports.glow_of_hope = require("@/assets/glow-of-hope");
+exports.mahishasura = require("@/assets/mahishasura");
+exports.tamil_girl = require("@/assets/tamil-girl");
+exports.rabindranath_tagore_self_portrait = require("@/assets/rabindranath-tagore-self-portrait");
+exports.horses = require("@/assets/horses");
+exports.bharat_mata = require("@/assets/bharat-mata");
+exports.shakuntala = require("@/assets/shakuntala");
+exports.barbet = require("@/assets/barbet");
+exports.three_pujarins = require("@/assets/three-pujarins");
+exports.bindu = require("@/assets/bindu");
+exports.vagabond = require("@/assets/vagabond");
+exports.sati = require("@/assets/sati");

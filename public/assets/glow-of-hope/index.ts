@@ -1,0 +1,5 @@
+export { default as artist } from './artist.jpg'
+export { default as gallery } from './gallery.jpg'
+export { default as hero_large } from './hero_large.jpg'
+export { default as hero_small } from './hero_small.jpg'
+export { default as thumbnail } from './thumbnail.jpg'

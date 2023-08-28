@@ -1,22 +1,23 @@
-import './globals.css'
-import type { Metadata } from 'next'
-import { Inter } from 'next/font/google'
+import './globals.css';
+import type { Metadata } from 'next';
+import { Playfair_Display } from 'next/font/google';
 
-const inter = Inter({ subsets: ['latin'] })
+const pd = Playfair_Display({
+  weight: ['400', '700'],
+  subsets: ['latin'],
+  variable: '--font-pd',
+});
 
 export const metadata: Metadata = {
-  title: 'Indian Art Gallery',
-  description: 'built using NextJS and TypeScript',
-}
+  title: 'Galleria',
+  description:
+    'This is a solution to the "Galleria slideshow site" challenge on Frontend Mentor',
+};
 
-export default function RootLayout({
-  children,
-}: {
-  children: React.ReactNode
-}) {
+export default function RootLayout({ children }: React.PropsWithChildren) {
   return (
     <html lang="en">
-      <body className={inter.className}>{children}</body>
+      <body className={pd.variable}>{children}</body>
     </html>
-  )
+  );
 }
