@@ -1,7 +1,7 @@
 import styles from './Header.module.css';
 import Logo from '@/_assets/logo.svg';
 import normalizeUrl from '@/_utils/normalizeUrl';
-import Link from 'next/link';
+
 
 export default function Header({ action }: { action: 'start' | 'stop' }) {
   const canStop = action === 'stop';
