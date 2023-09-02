@@ -17,17 +17,19 @@ Users should be able to:
 * Navigate the slideshow and view each painting in a lightbox
   
 ### Screenshot
+![Desktop Screenshot](https://github.com/Ashrita-Das/art-gallery/blob/master/screenshots/screenshot-desktop.png)
+![Mobile Screenshot](https://github.com/Ashrita-Das/art-gallery/blob/master/screenshots/screenshot-mobile.png)
 
 ### Links
 * Solution URL: [Github](https://github.com/Ashrita-Das/art-gallery)
 
   
 ### Built with
-[React](https://react.dev/) - JS library
-[Next.js](https://nextjs.org/) - React framework
-[TailwindCSS](https://tailwindcss.com/) - For styles
-[Typescript](https://www.typescriptlang.org/) - More secure and robust code
+* [React](https://react.dev/) - JS library
+* [Next.js](https://nextjs.org/) - React framework
+* [TailwindCSS](https://tailwindcss.com/) - For styles
+* [Typescript](https://www.typescriptlang.org/) - More secure and robust code
 
 ### What I learned
-
+While building this I faced numerous unexpected challenges with new concepts such as the Masonry Layout but that helped me learn new techniques and gave me a good insight to 'Pinterest' style layouts. It also helped me practice the concepts I had learned about Typescript. Also, I was amazed at the treasure trove of amazing paintings that India has to offer while looking for assets for the project.
 
