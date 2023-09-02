@@ -20,7 +20,7 @@ Users should be able to:
 
 ### Links
 * Solution URL: [Github](https://github.com/Ashrita-Das/art-gallery)
-* Live Site URL: [Github Pages](https://ashrita-das.github.io/art-gallery/)
+
   
 ### Built with
 [React](https://react.dev/) - JS library
